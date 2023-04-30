@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/digilabs-react-figma/static/css/main.e6c13ad2.css",
+    "main.js": "/digilabs-react-figma/static/js/main.b9ad5f84.js",
+    "static/js/787.2ad0e834.chunk.js": "/digilabs-react-figma/static/js/787.2ad0e834.chunk.js",
+    "static/media/logo.svg": "/digilabs-react-figma/static/media/logo.2b601728e0c94157c80ec0569caedc21.svg",
+    "static/media/lock.svg": "/digilabs-react-figma/static/media/lock.0fd51154836033a72b96ab5c89ce3a37.svg",
+    "index.html": "/digilabs-react-figma/index.html",
+    "static/media/like.svg": "/digilabs-react-figma/static/media/like.3706161aa6709b53c1eb1cc4af7f0151.svg",
+    "static/media/dollar.svg": "/digilabs-react-figma/static/media/dollar.28026c3180dba7abef59ccfff91b1b97.svg",
+    "static/media/user.svg": "/digilabs-react-figma/static/media/user.58d254f2d4c6461f39287ac3febfb060.svg",
+    "main.e6c13ad2.css.map": "/digilabs-react-figma/static/css/main.e6c13ad2.css.map",
+    "main.b9ad5f84.js.map": "/digilabs-react-figma/static/js/main.b9ad5f84.js.map",
+    "787.2ad0e834.chunk.js.map": "/digilabs-react-figma/static/js/787.2ad0e834.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b9ad5f84.js"
+  ]
+}
